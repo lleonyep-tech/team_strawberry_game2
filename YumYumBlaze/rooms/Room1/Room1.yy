@@ -13,8 +13,8 @@
   ],
   "name":"Room1",
   "parent":{
-    "name":"Game 2 (Name TBD)",
-    "path":"Game 2 (Name TBD).yyp",
+    "name":"YumYumBlaze",
+    "path":"YumYumBlaze.yyp",
   },
   "parentRoom":null,
   "physicsSettings":{

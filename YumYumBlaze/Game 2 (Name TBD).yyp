@@ -53,6 +53,7 @@
     {"id":{"name":"spr_heavyCreamButton","path":"sprites/spr_heavyCreamButton/spr_heavyCreamButton.yy",},},
     {"id":{"name":"spr_meltChocButton","path":"sprites/spr_meltChocButton/spr_meltChocButton.yy",},},
     {"id":{"name":"spr_round2","path":"sprites/spr_round2/spr_round2.yy",},},
+    {"id":{"name":"spr_round2BG","path":"sprites/spr_round2BG/spr_round2BG.yy",},},
     {"id":{"name":"spr_round3","path":"sprites/spr_round3/spr_round3.yy",},},
     {"id":{"name":"spr_salmonButton","path":"sprites/spr_salmonButton/spr_salmonButton.yy",},},
     {"id":{"name":"spr_titlePending","path":"sprites/spr_titlePending/spr_titlePending.yy",},},
