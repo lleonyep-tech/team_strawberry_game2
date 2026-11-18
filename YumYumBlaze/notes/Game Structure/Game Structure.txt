@@ -1,0 +1,31 @@
+Room0 - Title Screen
+		Programming: Needs "Press x Key to Begin" and transition to the next room
+		
+Room1 - Cutscenes (introduction, rules of the game, etc) 
+		Art: Needs cutscenes
+		
+Room2 - First Minigame!: Drink - Lemonade
+	a. Cut as many lemons as you can!
+	b. pour a perfect amount of sugar
+	c. water and shake!
+	Art: Needs Background and object art
+	Programming: Needs Click and Drag, then Cut; Needs Click and Hold until perfect measure; Needs click and hold for
+	perfect amount of shake; Needs timer for everything
+	
+Room3 - Second Minigame!: Entree - Sushie
+	a. Perfectly cook the rice
+	b. Flatten it on paper
+	c. cut the protein and top perfectly
+	d. roll the sushi and roll
+	Art: Needs Background and object art
+	Programming: Needs perfect timing click; Needs clicks for flattening rice; Needs drag for rolling sushi 
+	animation;
+	
+Room4 - Results (judge's score)
+	chicken: score: --
+	hamster: score: --
+	bunny: score: --
+	
+	"Win Condition": (if total above 30, player wins) else, less than 30, lose
+	*or whatever we put in the document, I'm just scripting out the win conditions logic for 
+	programming purposes but it can change to what was agreed on*
